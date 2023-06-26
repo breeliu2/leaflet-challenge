@@ -16,6 +16,6 @@ Import and Visualize the Data
 * When a marker is clicked, popups are displayed, providing additional information about the earthquake.
 * To provide context for the map data, a legend was generated.
 
-<img width="1193" alt="Screenshot 2023-06-25 at 10 47 44 PM" src="https://github.com/breeliu2/leaflet-challenge/assets/124847109/ca120838-b593-4d46-ad89-ed63893e34bb">
 
-  
+  <img width="1193" alt="Screenshot 2023-06-25 at 10 48 27 PM" src="https://github.com/breeliu2/leaflet-challenge/assets/124847109/76a65727-99c8-4bef-81eb-f7577460acc9">
+
